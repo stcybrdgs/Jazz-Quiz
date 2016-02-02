@@ -1,0 +1,53 @@
+[
+    {
+        "question" : "The term ______ refers to a style of jazz that does not use regular meters and formal structures.",
+        "answers"  : [
+            { "id" : 0, "text" : "Free Jazz" },
+            { "id" : 1, "text" : "Bebop" },
+            { "id" : 2, "text" : "Gypsy Jazz" },
+            { "id" : 3, "text" : "Cool Jazz" }            
+        ],
+        "correct"  : 0
+    },
+	{
+		"question" : "Which image shows a close-up of a vibraphone?",
+		"answers"  : [
+			{"id"  : 0, "image" : "images/closeUp_0.jpg" },
+			{"id"  : 1, "image" : "images/closeUp_1.jpg" },
+			{"id"  : 2, "image" : "images/closeUp_2.jpg" },
+			{"id"  : 3, "image" : "images/closeUp_3.jpg" }
+		],
+		"correct"  : 1
+	},
+	{
+		"question" : "In 1959, who introduced Modal Jazz with the album 'Kind of Blue?'",
+		"answers"  : [
+			{"id"  : 0, "text" : "John Coltrane"},
+			{"id"  : 1, "text" : "Miles Davis"},
+			{"id"  : 2, "text" : "Duke Ellington"},
+			{"id"  : 3, "text" : "Thelonious Monk"}
+		],
+		"correct"  : 1
+	},
+	{
+		"question" : "Some consider the most important interval of Bebop to be the ______ interval.",
+		"answers"  : [
+			{"id"  : 0, "text" : "#5"},
+			{"id"  : 1, "text" : "b5"},
+			{"id"  : 2, "text" : "#9"},
+			{"id"  : 3, "text" : "Silent"}
+		],
+		"correct"  : 1,
+		"feedback" : "The b5 is also known as the Tritone."
+	},
+	{
+		"question" : "In the late 60s and early 70s, which style combined jazz improvisation with rock rythms?",
+		"answers"  : [
+			{"id"  : 0, "text" : "Rockabilly"},
+			{"id"  : 1, "text" : "Tatum Bop"},
+			{"id"  : 2, "text" : "Jazz Fusion"},
+			{"id"  : 3, "text" : "Psychedelic Jazz"}
+		],
+		"correct"  : 2
+	}    
+]
