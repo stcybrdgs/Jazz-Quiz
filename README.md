@@ -1,3 +1,3 @@
-# Jazz-Quiz
+# Jazz Quiz
 
-A responsive Jazz Quiz built with AngularJS.
+This repository features a responsive, 5-question Jazz Quiz built with CSS, JSON, and AngularJS.
